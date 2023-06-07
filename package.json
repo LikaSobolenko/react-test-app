@@ -2,7 +2,7 @@
   "name": "react-test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://.github.io//",
+  "homepage": "https://LikaSobolenko.github.io/react-test-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
