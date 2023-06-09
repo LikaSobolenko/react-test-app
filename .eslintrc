@@ -3,7 +3,6 @@
     "rules": {
         "no-unused-vars": "warn",
         "no-console": "warn",
-        "quotes": ["error", "single"],
         "jsx-quotes": ["error", "prefer-double"],
         "prefer-const": "error",
         "indent": ["warn", 4],
